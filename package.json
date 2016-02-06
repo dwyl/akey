@@ -1,0 +1,25 @@
+{
+  "name": "akey",
+  "version": "1.0.1",
+  "description": "One Key to Rull Them All...?",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwyl/akey.git"
+  },
+  "keywords": [
+    "Keys",
+    "Watch",
+    "This",
+    "Space"
+  ],
+  "author": "dwyl & co",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/dwyl/akey/issues"
+  },
+  "homepage": "https://github.com/dwyl/akey#readme"
+}
